@@ -1,4 +1,4 @@
-# 論文 Deep Residual Learning for Image Recognition
+# Deep Residual Learning for Image Recognition
 ## Abstrct 
 * 當深度逐漸增加，神經網路的訓練就會越來越困難。在這篇論文中，作者們提出了一個殘差學習 (residual Learning) 框架來使極深層的網路結構訓練變得更簡單。
 ## Introduction
