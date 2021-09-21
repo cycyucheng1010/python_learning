@@ -12,3 +12,4 @@
 ## 參考資料
 * [Deep Residual Learning for Image Recognition](https://allen108108.github.io/blog/2019/10/29/[%E8%AB%96%E6%96%87]%20Deep%20Residual%20Learning%20for%20Image%20Recognition/)
 * [深度学习入门教学--Resnet残差网络介绍](https://www.youtube.com/watch?v=Bu9A_-M5OZk&t=421s)
+* [Residual Leaning: 認識ResNet與他的冠名後繼者ResNeXt、ResNeSt](https://medium.com/%E8%BB%9F%E9%AB%94%E4%B9%8B%E5%BF%83/deep-learning-residual-leaning-%E8%AA%8D%E8%AD%98resnet%E8%88%87%E4%BB%96%E7%9A%84%E5%86%A0%E5%90%8D%E5%BE%8C%E7%B9%BC%E8%80%85resnext-resnest-6bedf9389ce)
