@@ -6,6 +6,9 @@
 
 ![image](https://user-images.githubusercontent.com/62127656/133976001-1a5eb6e8-a71d-419d-be82-9bd358cfbaa8.png)
 
+![image](https://user-images.githubusercontent.com/62127656/134840975-8a80b36b-34ca-49f9-862d-43bb6b1f35b7.png)
+![image](https://user-images.githubusercontent.com/62127656/134841002-85367e1f-4ac5-4edd-a4a5-fe58a1dc7f9e.png)
+
 ## 參考資料
 * [Deep Residual Learning for Image Recognition](https://allen108108.github.io/blog/2019/10/29/[%E8%AB%96%E6%96%87]%20Deep%20Residual%20Learning%20for%20Image%20Recognition/)
-* 
+* [經典神經網路學習（四）——ResNet](https://www.itread01.com/content/1545500646.html)
