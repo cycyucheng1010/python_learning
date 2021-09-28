@@ -13,11 +13,10 @@
 * 所以學習也可以這樣寫：x → F(x) + x
 * 因為H(x) = F(x) + x
 * 白話文: 輸入→特徵 ，變成：輸入→ 輸入 + 殘差，若沒學到則殘差為0
+* 又因relu有負數則為0的特性，可配合殘差
 ![image](https://user-images.githubusercontent.com/62127656/135018371-50925c3a-8ebf-4fd6-9ba1-a1c9a5a4885d.png)
 
-* 又因relu有負數則為0的特性，可配合殘差
 
-![image](https://user-images.githubusercontent.com/62127656/134123823-05ae73d9-b15f-4318-ac40-0459729f0e8a.png)
 ![image](https://user-images.githubusercontent.com/62127656/134124009-54367385-1d5c-4880-9e9d-c9dd91f9dc45.png)
 ![image](https://user-images.githubusercontent.com/62127656/135017170-0c235b80-7a27-4625-b9bf-2f51a2c334a3.png)
 ![image](https://user-images.githubusercontent.com/62127656/135017303-4ffde896-727d-421d-a659-d1871e8fd87d.png)
