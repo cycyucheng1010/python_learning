@@ -14,6 +14,7 @@
 * 因為H(x) = F(x) + x
 * 白話文: 輸入→特徵 ，變成：輸入→ 輸入 + 殘差，若沒學到則殘差為0
 * 又因relu有負數則為0的特性，可配合殘差
+
 ![image](https://user-images.githubusercontent.com/62127656/135018371-50925c3a-8ebf-4fd6-9ba1-a1c9a5a4885d.png)
 
 
