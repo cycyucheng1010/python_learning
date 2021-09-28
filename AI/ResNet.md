@@ -8,6 +8,7 @@
 ![image](https://user-images.githubusercontent.com/62127656/134123446-de6afefe-fbf7-4c1c-bdee-09ec6806a4a1.png)
 ![image](https://user-images.githubusercontent.com/62127656/134123823-05ae73d9-b15f-4318-ac40-0459729f0e8a.png)
 ![image](https://user-images.githubusercontent.com/62127656/134124009-54367385-1d5c-4880-9e9d-c9dd91f9dc45.png)
+![image](https://user-images.githubusercontent.com/62127656/135017170-0c235b80-7a27-4625-b9bf-2f51a2c334a3.png)
 
 ## 參考資料
 * [Deep Residual Learning for Image Recognition](https://allen108108.github.io/blog/2019/10/29/[%E8%AB%96%E6%96%87]%20Deep%20Residual%20Learning%20for%20Image%20Recognition/)
